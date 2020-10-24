@@ -1,0 +1,11 @@
+{
+  "name": "my-apartment",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-dotenv-plugin": "^3.1.0",
+    "serverless-python-requirements": "^5.1.0"
+  }
+}
